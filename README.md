@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/d34298ba8319a1f6747de21b2b845dc7a58902037a309695cca8e53822c89853/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f736f6674776172652d656e67696e656572696e672d62616e6e65722d616e642d69636f6e732d766563746f722d6964363336353236323332" alt="MasterHead" data-canonical-src="https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232" style="max-width: 80%;" width="1200px" height="283px">
+<img src="https://camo.githubusercontent.com/d34298ba8319a1f6747de21b2b845dc7a58902037a309695cca8e53822c89853/68747470733a2f2f6d656469612e6973746f636b70686f746f2e636f6d2f766563746f72732f736f6674776172652d656e67696e656572696e672d62616e6e65722d616e642d69636f6e732d766563746f722d6964363336353236323332" alt="MasterHead" data-canonical-src="https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232" style="max-width: 60%;" width="1200px" height="283px">
 
 <h1 align="center">Hi 👋, I'm Ahmed Alaa</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
